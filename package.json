@@ -5,5 +5,23 @@
   },
   "devDependencies": {
     "supertest": "^6.3.3"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "express-shopping-list",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jswanson806/express-shopping-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jswanson806/express-shopping-list/issues"
+  },
+  "homepage": "https://github.com/jswanson806/express-shopping-list#readme"
 }
